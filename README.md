@@ -11,6 +11,13 @@ PLAYIT.GG's network
 2602:fbaf::/36
 ```
 
+### Useful Strings
+
+#### Wireshark Packet Filter
+```
+(ipv6.addr == 2602:FBAF::/36 || ip.addr == 23.133.216.0/24 || ip.addr == 147.185.221.0/24 || ip.addr == 209.25.140.0/22 || ip.addr == 198.22.204.0/23)
+```
+
 ### Links
 IPs used by playit.gg:
 * [all](https://raw.githubusercontent.com/playit-cloud/network/refs/heads/main/ips.txt)
@@ -29,3 +36,4 @@ To report abuse on our network please email details to `abuse@playit.gg`. Please
 * Details on abuse. If malware, a link to an [anyrun](https://any.run/) or [VirusTotal](https://www.virustotal.com) report would be appreicated.
 
 If you would like to make automated reports, please email `support@playit.gg` with a request.
+
