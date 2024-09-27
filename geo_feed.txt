@@ -1,0 +1,47 @@
+# RFC8805-For-AS400519
+# https://datatracker.ietf.org/doc/html/rfc8805
+# prefix,country_code,region_code,city,postal
+
+# each network is announced in multiple datacenters across the continent
+209.25.140.0/24,US,,,
+209.25.141.0/24,DE,,,
+209.25.142.0/24,SG,,,
+209.25.143.0/24,IN,,,
+209.25.143.0/24,IN,,,
+198.22.204.0/24,BR,,,
+
+# global anycast, no particular region
+23.133.216.0/24,,,,
+147.185.221.0/24,,,,
+
+# changes frequently for network testing
+198.22.205.0/24,,,,
+
+# IPv6
+2602:fbaf::/48,,,,
+2602:fbaf:804::/48,US,US-CA,,
+2602:fbaf:808::/48,US,US-WA,,
+2602:fbaf:80c::/48,US,US-TX,,
+2602:fbaf:810::/48,US,US-FL,,
+2602:fbaf:814::/48,US,US-IL,,
+2602:fbaf:818::/48,US,US-NJ,,
+2602:fbaf:81c::/48,CA,,,
+2602:fbaf:820::/48,MX,,,
+2602:fbaf:824::/48,BR,,,
+2602:fbaf:828::/48,ES,,,
+2602:fbaf:82c::/48,GB,,,
+2602:fbaf:830::/48,DE,,,
+2602:fbaf:834::/48,PL,,,
+2602:fbaf:838::/48,SE,,,
+2602:fbaf:83c::/48,IN,,,
+2602:fbaf:840::/48,IN,,,
+2602:fbaf:844::/48,IN,,,
+2602:fbaf:848::/48,SG,,,
+2602:fbaf:84c::/48,JP,,,
+2602:fbaf:850::/48,AU,,,
+2602:fbaf:854::/48,CL,,,
+2602:fbaf:858::/48,IL,,,
+2602:fbaf:85c::/48,RO,,,
+2602:fbaf:860::/48,US,US-NY,,
+2602:fbaf:864::/48,US,US-CO,,
+
