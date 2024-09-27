@@ -11,3 +11,14 @@ PLAYIT.GG's network
 2602:fbaf::/36
 ```
 
+### Reporting Abuse
+
+To report abuse on our network please email details to `abuse@playit.gg`. Please include:
+* IP Address
+* Port Number
+* Protocol: TCP or UDP
+* Time at which abuse was detected
+* Details on abuse. If malware, a link to an [anyrun](https://any.run/) or [VirusTotal](https://www.virustotal.com) report would be appreicated.
+
+
+If you would like to make automated reports, please email `support@playit.gg` with a request.
