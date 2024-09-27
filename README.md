@@ -11,6 +11,14 @@ PLAYIT.GG's network
 2602:fbaf::/36
 ```
 
+### Links
+IPs used by playit.gg:
+* [all](https://raw.githubusercontent.com/playit-cloud/network/refs/heads/main/ips.txt)
+* [non paying users](https://raw.githubusercontent.com/playit-cloud/network/refs/heads/main/ips-free.txt)
+* [paying users](https://raw.githubusercontent.com/playit-cloud/network/refs/heads/main/ips-premium.txt)
+
+GEO Feed: [RFC8805](https://raw.githubusercontent.com/playit-cloud/network/refs/heads/main/geo_feed.txt)
+
 ### Reporting Abuse
 
 To report abuse on our network please email details to `abuse@playit.gg`. Please include:
@@ -19,6 +27,5 @@ To report abuse on our network please email details to `abuse@playit.gg`. Please
 * Protocol: TCP or UDP
 * Time at which abuse was detected
 * Details on abuse. If malware, a link to an [anyrun](https://any.run/) or [VirusTotal](https://www.virustotal.com) report would be appreicated.
-
 
 If you would like to make automated reports, please email `support@playit.gg` with a request.
