@@ -34,7 +34,7 @@ Ping Links
 * India: [IPv4](http://209.25.143.1) [DNS 4](http://ping.ip4.in.ply.gg/) [DNS 6](http://ping.ip6.in.ply.gg/) [DNS](http://ping.in.ply.gg/)
 * South America: [IPv4](http://198.22.204.1) [DNS 4](http://ping.ip4.sa.ply.gg/) [DNS 6](http://ping.ip6.sa.ply.gg/) [DNS](http://ping.sa.ply.gg/)
 
-IP6 Links for NorthAmerica:
+IPv6 Links for North America:
 * GeoDNS: [DNS 6](http://ping.ip6.na.ply.gg)
 * USLosAngeles: [IPv6](http://[2602:fbaf:804:2::1]) [DNS 6](http://ping.ip6.los.ply.gg)
 * USSeattle: [IPv6](http://[2602:fbaf:808:2::1]) [DNS 6](http://ping.ip6.sea.ply.gg)
@@ -46,7 +46,8 @@ IP6 Links for NorthAmerica:
 * Mexico (offline): [IPv6](http://[2602:fbaf:820:2::1]) [DNS 6](http://ping.ip6.mex.ply.gg)
 * USNewYork: [IPv6](http://[2602:fbaf:860:2::1]) [DNS 6](http://ping.ip6.nyc.ply.gg)
 * USDenver: [IPv6](http://[2602:fbaf:864:2::1]) [DNS 6](http://ping.ip6.den.ply.gg)
-IP6 Links for Europe:
+
+IPv6 Links for Europe:
 * GeoDNS: [DNS 6](http://ping.ip6.eu.ply.gg)
 * Spain: [IPv6](http://[2602:fbaf:828:3::1]) [DNS 6](http://ping.ip6.esp.ply.gg)
 * London: [IPv6](http://[2602:fbaf:82c:3::1]) [DNS 6](http://ping.ip6.gbr.ply.gg)
@@ -55,17 +56,20 @@ IP6 Links for Europe:
 * Sweden (offline): [IPv6](http://[2602:fbaf:838:3::1]) [DNS 6](http://ping.ip6.swe.ply.gg)
 * Israel (offline): [IPv6](http://[2602:fbaf:858:3::1]) [DNS 6](http://ping.ip6.isr.ply.gg)
 * Romania: [IPv6](http://[2602:fbaf:85c:3::1]) [DNS 6](http://ping.ip6.rmn.ply.gg)
-IP6 Links for Asia:
+
+IPv6 Links for Asia:
 * GeoDNS: [DNS 6](http://ping.ip6.as.ply.gg)
 * Singapore: [IPv6](http://[2602:fbaf:848:4::1]) [DNS 6](http://ping.ip6.sgp.ply.gg)
 * Tokyo: [IPv6](http://[2602:fbaf:84c:4::1]) [DNS 6](http://ping.ip6.tok.ply.gg)
 * Sydney: [IPv6](http://[2602:fbaf:850:4::1]) [DNS 6](http://ping.ip6.syd.ply.gg)
-IP6 Links for India:
+
+IPv6 Links for India:
 * GeoDNS: [DNS 6](http://ping.ip6.in.ply.gg)
 * IndiaDelhi: [IPv6](http://[2602:fbaf:83c:5::1]) [DNS 6](http://ping.ip6.del.ply.gg)
 * IndiaMumbai: [IPv6](http://[2602:fbaf:840:5::1]) [DNS 6](http://ping.ip6.mum.ply.gg)
 * IndiaBangalore: [IPv6](http://[2602:fbaf:844:5::1]) [DNS 6](http://ping.ip6.ban.ply.gg)
-IP6 Links for SouthAmerica:
+
+IPv6 Links for South America:
 * GeoDNS: [DNS 6](http://ping.ip6.sa.ply.gg)
 * BrazilSaoPaulo: [IPv6](http://[2602:fbaf:824:6::1]) [DNS 6](http://ping.ip6.sao.ply.gg)
 * SantiagoChile: [IPv6](http://[2602:fbaf:854:6::1]) [DNS 6](http://ping.ip6.san.ply.gg)
