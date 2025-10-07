@@ -15,12 +15,12 @@ PLAYIT.GG's network
 
 #### Wireshark Packet Filter
 ```
-(ipv6.addr == 2602:FBAF::/36 || ip.addr == 23.133.216.0/24 || ip.addr == 147.185.221.0/24 || ip.addr == 209.25.140.0/22 || ip.addr == 198.22.204.0/23)
+(ipv6.addr == 2602:FBAF::/36 || ip.addr == 23.133.216.0/24 || ip.addr == 147.185.221.0/24 || ip.addr == 209.25.140.0/22 || ip.addr == 198.22.204.0/23 || ip.addr == 69.9.176.0/20)
 ```
 
 #### tcpdump command
 ```
-tcpdump 'ip6 and net 2602:FBAF::/36 or net 23.133.216.0/24 or net 147.185.221.0/24 or net 209.25.140.0/22 or net 198.22.204.0/23'
+tcpdump '(ip6 and net 2602:FBAF::/36) or net 23.133.216.0/24 or net 147.185.221.0/24 or net 209.25.140.0/22 or net 198.22.204.0/23 or net 69.9.176.0/20'
 ```
 
 ### Links
