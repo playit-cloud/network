@@ -7,6 +7,8 @@
 69.9.179.0/24,US,US-TX,Dallas,
 69.9.180.0/24,US,US-IL,Chicago,
 69.9.181.0/24,US,US-NY,New York City,
+69.9.182.0/24,US,US-FL,Miami,
+69.9.183.0/24,US,US-GA,Atlanta,
 69.9.184.0/24,GB,GB-LND,London,
 69.9.185.0/24,DE,DE-HE,Frankfurt,
 69.9.186.0/24,SE,SE-AB,Stockholm,
